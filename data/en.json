@@ -1,0 +1,142 @@
+{
+  "dir": "ltr",
+  "lang": "en",
+  "metaTitle": "Ahmad Rubber Traders | Dairy Cow Mats & EVA Flooring Sheets Lahore",
+  "metaDesc": "Wholesale supplier of dairy cow mats, EVA flooring sheets, and milking parlor mats in Lahore, Pakistan. Calculate mats needed for your farm and get quick quotes on WhatsApp.",
+  "nav": {
+    "brand": "Ahmad Rubber Traders",
+    "location": "Fleming Road, Lahore",
+    "call": "Call Shop",
+    "whatsapp": "WhatsApp",
+    "langToggle": "اردو",
+    "catalog": "Products",
+    "calculator": "Bulk Calculator",
+    "whereMatsGo": "Where Mats Go",
+    "orderSteps": "How to Order",
+    "delivery": "Delivery",
+    "reviews": "Reviews",
+    "faq": "FAQ",
+    "visit": "Visit Us",
+    "inquiry": "Inquiry List",
+    "menu": "Menu"
+  },
+  "hero": {
+    "eyebrow": "Wholesale Rubber Mats Depot in Lahore",
+    "title": "Durable cow mats and rubber sheets",
+    "subtitle": "Wholesale farm flooring and parlor mats dispatched across Punjab.",
+    "ctaCalc": "Calculate Mats Needed",
+    "ctaCatalog": "Explore Products",
+    "phoneDirect": "Direct Contact",
+    "statRating": "4.9 Google Rating",
+    "statReviews": "77 Verified Reviews",
+    "statWholesale": "Direct Wholesale Rates"
+  },
+  "products": {
+    "title": "Available Products & Sizes",
+    "subtitle": "Heavy-duty rubber and EVA flooring for dairy sheds, stables, and commercial areas. Built for hygiene and slip resistance.",
+    "sizesLabel": "Standard Sizes:",
+    "thicknessLabel": "Thickness Options:",
+    "surfaceLabel": "Surface Profile:",
+    "usageLabel": "Best Used In:",
+    "priceLabel": "Price:",
+    "addToInquiry": "Add to Inquiry",
+    "addedSuccess": "Added",
+    "realPhotoNotice": "Actual Product Photo"
+  },
+  "calculator": {
+    "title": "Bulk Requirement Calculator",
+    "subtitle": "Work out estimated pieces needed by shed dimensions or cow stall count. Results serve as an estimate for quotation; exact quantities are confirmed with the shop.",
+    "modeArea": "By Shed Area",
+    "modeStalls": "By Stall / Cow Count",
+    "unitFeet": "Measure in Feet",
+    "unitMetres": "Measure in Metres",
+    "lengthLabel": "Length",
+    "widthLabel": "Width",
+    "productLabel": "Select Flooring Product",
+    "sizeLabel": "Select Mat Size",
+    "wastageLabel": "Allowance for corners & trimming (%)",
+    "cowsLabel": "Number of Cows or Stalls",
+    "stallSizeLabel": "Typical Stall Size",
+    "addonsLabel": "Include Additional Shed Zones",
+    "resultTitle": "Estimated Pieces Required",
+    "piecesCount": "Number of Pieces Needed:",
+    "totalArea": "Total Floor Area:",
+    "piecesUnit": "Pieces",
+    "sqFtUnit": "Sq. Ft.",
+    "sqMUnit": "Sq. Metres",
+    "costNote": "Price on request (current wholesale rate confirmed on WhatsApp)",
+    "addResultBtn": "Add Estimate to Inquiry List",
+    "estimateNotice": "Note: This is an engineering estimate for quoting purposes. The shop confirms exact dimensions and trimming layout before dispatch."
+  },
+  "inquiry": {
+    "title": "Your Inquiry Requisition",
+    "subtitle": "Review selected flooring items and quantities, then send an itemized message to the Lahore shop on WhatsApp.",
+    "emptyNotice": "Your inquiry list is empty. Add products from the catalog or compute pieces with the calculator above.",
+    "itemHeader": "Item Specification",
+    "qtyHeader": "Qty",
+    "actionHeader": "Action",
+    "clearAll": "Clear list",
+    "nameLabel": "Your Name *",
+    "namePlaceholder": "e.g. Tariq Mehmood",
+    "phoneLabel": "Phone / WhatsApp Number *",
+    "phonePlaceholder": "0300 1234567",
+    "cityLabel": "Destination City *",
+    "cityPlaceholder": "e.g. Okara, Faisalabad, Lahore",
+    "deliveryTypeLabel": "Delivery Preference:",
+    "deliveryCargo": "Goods Cargo / Bilty Transport Dispatch",
+    "deliveryPickup": "Direct Lahore Shop Counter Pickup",
+    "notesLabel": "Special Requirements (Optional)",
+    "notesPlaceholder": "Any notes on shed layout, drainage slopes, or thickness preference",
+    "sendWhatsApp": "Request Quote via WhatsApp",
+    "whatsappHelper": "Tapping this opens WhatsApp with a pre-filled, itemized inquiry for the shop counter."
+  },
+  "whereMatsGo": {
+    "title": "Where Mats Go: Practical Farm Placement",
+    "subtitle": "Recommended flooring types for stalls, walkways, washdown parlors, and calf pens.",
+    "shedTag": "Dairy Shed Floor Layout • Punjab Farms",
+    "shedLabel": "Practical Farm Application",
+    "shedDesc": "Rubber mats installed along standing stalls and wash alleys prevent hoof slipping, insulate cows from cold concrete floors, and channel liquids directly into slurry drains."
+  },
+  "orderSteps": {
+    "title": "How a Bulk Order Works",
+    "subtitle": "Simple 3-step process from measurement to delivery across Punjab."
+  },
+  "delivery": {
+    "title": "Delivery & Trade Terms",
+    "subtitle": "Direct depot collection in Lahore or intercity cargo transit across Punjab.",
+    "coverage": "Coverage Areas:",
+    "timing": "Transit Timing:",
+    "minOrder": "Minimum Order:",
+    "payment": "Payment Method:"
+  },
+  "reviews": {
+    "title": "Verified Customer Reviews",
+    "subtitle": "Authentic 4.9 rating across 77 reviews on Google Maps",
+    "ratingScore": "4.9",
+    "outOf": "out of 5",
+    "countText": "77 Google Reviews",
+    "verifiedNotice": "We show only genuine Google Maps ratings. No fictitious testimonials or fabricated customer claims."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Practical advice on thickness, durability, cleaning, and ordering in bulk."
+  },
+  "visit": {
+    "title": "Visit Our Lahore Counter",
+    "subtitle": "Inspect mat quality, check thickness calipers in person, and discuss bulk orders at our Fleming Road shop.",
+    "addressTitle": "Shop Address:",
+    "hoursTitle": "Operating Hours:",
+    "phoneTitle": "Phone & WhatsApp:",
+    "openMaps": "Open in Google Maps"
+  },
+  "footer": {
+    "aboutText": "Ahmad Rubber Traders is a wholesale supplier of dairy cow mats, EVA flooring sheets, and milking parlor mats in Lahore, Pakistan.",
+    "rights": "Ahmad Rubber Traders, Fleming Road, Lahore."
+  },
+  "bottomBar": {
+    "call": "Call",
+    "whatsapp": "WhatsApp",
+    "inquiry": "Inquiry"
+  }
+}
+

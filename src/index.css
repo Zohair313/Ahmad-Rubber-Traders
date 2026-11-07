@@ -1,0 +1,101 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    background-color: #F7F6F3;
+    color: #141619;
+    font-family: 'Barlow', -apple-system, BlinkMacSystemFont, sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Chivo', sans-serif;
+    letter-spacing: -0.02em;
+    font-weight: 800;
+  }
+
+  code, pre, .font-mono {
+    font-family: 'JetBrains Mono', monospace;
+  }
+}
+
+/* Authentic Industrial Textures for Rubber Surface Previews */
+.texture-coin {
+  background-color: #1A1D22;
+  background-image: radial-gradient(#2E343D 24%, transparent 26%), radial-gradient(#2E343D 24%, transparent 26%);
+  background-position: 0 0, 16px 16px;
+  background-size: 32px 32px;
+}
+
+.texture-diamond {
+  background-color: #1A1D22;
+  background-image: 
+    linear-gradient(135deg, #2D333D 25%, transparent 25%),
+    linear-gradient(225deg, #2D333D 25%, transparent 25%),
+    linear-gradient(315deg, #2D333D 25%, transparent 25%),
+    linear-gradient(45deg, #2D333D 25%, transparent 25%);
+  background-position: -8px 0, -8px 0, 0 -8px, 0 -8px;
+  background-size: 16px 16px;
+  background-repeat: repeat;
+}
+
+.texture-ribbed {
+  background-color: #181B1F;
+  background-image: repeating-linear-gradient(
+    90deg,
+    #181B1F,
+    #181B1F 6px,
+    #2B3038 6px,
+    #2B3038 12px
+  );
+}
+
+.texture-groove {
+  background-color: #14171A;
+  background-image: repeating-linear-gradient(
+    0deg,
+    #14171A,
+    #14171A 10px,
+    #252A33 10px,
+    #252A33 18px
+  );
+}
+
+.texture-smooth {
+  background: linear-gradient(145deg, #1f232a 0%, #16181b 100%);
+  position: relative;
+}
+.texture-smooth::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  opacity: 0.08;
+  background-image: radial-gradient(#fff 1px, transparent 1px);
+  background-size: 4px 4px;
+}
+
+/* Precision Hairline Industrial Borders */
+.border-industrial {
+  border-color: #D6D5CE;
+}
+
+.border-industrial-dark {
+  border-color: #2F343E;
+}
+
+/* Custom Scrollbar for Spec Grids */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #EDEDEA;
+}
+::-webkit-scrollbar-thumb {
+  background: #B5B4AC;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #8E8D85;
+}
+

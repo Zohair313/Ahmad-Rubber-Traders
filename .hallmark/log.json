@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2026-11-07T12:08:00.000Z",
+    "shape": "Catalogue",
+    "theme": "furrow",
+    "axes": "light/grotesk-sans/warm",
+    "hero": "Poster",
+    "nav": "slab",
+    "footer": "colophon block",
+    "imagery": "photographs",
+    "photos": [
+      "images/context/cow-shed-natural.webp",
+      "images/context/rubber-texture-macro.webp"
+    ],
+    "entry": "Field Record",
+    "fingerprint": "adade1",
+    "sections": [
+      "hero",
+      "catalog",
+      "calculator",
+      "inquiry",
+      "where-mats-go",
+      "how-to-order",
+      "delivery",
+      "reviews",
+      "faq",
+      "visit",
+      "footer"
+    ],
+    "signature": "bulk inquiry calculator with live stall estimation, animated mat previews, and WhatsApp dispatch",
+    "waived": [],
+    "prompt": "dairy farm rubber cow mats EVA flooring sheets parlor mats Ahmad Rubber Traders Lahore Pakistan",
+    "defaultLang": "en",
+    "sloplint": {
+      "fail": 0,
+      "reflex": 0,
+      "warn": 1
+    }
+  }
+]

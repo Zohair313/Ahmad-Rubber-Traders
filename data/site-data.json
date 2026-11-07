@@ -1,0 +1,304 @@
+{
+  "client": {
+    "name": "Ahmad Rubber Traders",
+    "nameUrdu": "احمد ربڑ ٹریڈرز",
+    "tagline": "Wholesale dairy farm cow mats, EVA flooring sheets & parlor mats in Lahore",
+    "taglineUrdu": "لاہور میں ڈیری فارم کاؤ میٹس، ای وی اے فلورنگ شیٹس اور مل کنگ پارلر میٹس کے ہول سیل ڈیلر",
+    "address": "34 Jamia Street, Fleming Road / Wachowali Bazaar, Lahore, Pakistan",
+    "addressUrdu": "34 جامعہ سٹریٹ، فلیمنگ روڈ / واچھو والی بازار، لاہور، پاکستان",
+    "phone": "+92 311 6103661",
+    "phoneDisplay": "+92 311 6103661",
+    "whatsappNumber": "923116103661",
+    "hours": "Monday to Saturday: 09:30 AM to 07:30 PM",
+    "hoursUrdu": "پیر تا ہفتہ: صبح 9:30 تا شام 7:30",
+    "mapsUrl": "https://maps.google.com/?q=Fleming+Road+Lahore+Pakistan",
+    "rating": 4.9,
+    "reviewCount": 77,
+    "ratingSource": "Google Maps"
+  },
+  "defaults": {
+    "defaultWastagePercent": 5,
+    "unit": "ft",
+    "currencySymbol": "Rs.",
+    "currencySymbolUrdu": "روپے"
+  },
+  "products": [
+    {
+      "id": "cow-mat",
+      "slug": "cow-mat",
+      "title": "Dairy Cow Mat",
+      "titleUrdu": "ڈیری کاؤ میٹ (گائے کا گدہ)",
+      "category": "dairy",
+      "surfaceType": "Hammer / Diamond Grip Top, Grooved Drainage Underside",
+      "surfaceTypeUrdu": "اوپر سے اینٹی سلپ کھردری اور نیچے سے پانی کے اخراج کی نالیاں",
+      "usageArea": "Cattle stalls, free-stall cubicles, barn alleys",
+      "usageAreaUrdu": "گائے اور بھینسوں کے کھڑے ہونے اور بیٹھنے کی جگہ، گلیاروں کے لیے",
+      "sizes": [
+        {
+          "name": "4ft x 6ft (1.2m x 1.8m)",
+          "nameUrdu": "4 فٹ × 6 فٹ (1.2 میٹر × 1.8 میٹر)",
+          "lengthFt": 6.0,
+          "widthFt": 4.0,
+          "lengthM": 1.83,
+          "widthM": 1.22,
+          "areaSqFt": 24.0,
+          "areaSqM": 2.23
+        },
+        {
+          "name": "4ft x 7ft (1.2m x 2.1m)",
+          "nameUrdu": "4 فٹ × 7 فٹ (1.2 میٹر × 2.1 میٹر)",
+          "lengthFt": 7.0,
+          "widthFt": 4.0,
+          "lengthM": 2.13,
+          "widthM": 1.22,
+          "areaSqFt": 28.0,
+          "areaSqM": 2.6
+        }
+      ],
+      "thicknessOptions": [
+        "18mm",
+        "20mm",
+        "24mm"
+      ],
+      "priceNote": "Price on request / wholesale from shop",
+      "priceNoteUrdu": "ریٹ بذریعہ واٹس ایپ / ہول سیل ریٹ",
+      "basePrice": null,
+      "imagePlaceholder": "images/products/cow-mat.jpg"
+    },
+    {
+      "id": "eva-sheet",
+      "slug": "eva-sheet",
+      "title": "High-Density EVA Flooring Sheet",
+      "titleUrdu": "ہائی ڈینسٹی ای وی اے شیٹ",
+      "category": "flooring",
+      "surfaceType": "Textured non-slip closed-cell foam",
+      "surfaceTypeUrdu": "کھردری اینٹی سلپ، واٹر پروف کشن والی شیٹ",
+      "usageArea": "Calf pens, feed alleys, dry farm storage, multi-purpose flooring",
+      "usageAreaUrdu": "چھوٹے بچھڑوں کے باڑے، خشک گودام اور ملٹی پرپز فرش کے لیے",
+      "sizes": [
+        {
+          "name": "4ft x 8ft (1.2m x 2.4m)",
+          "nameUrdu": "4 فٹ × 8 فٹ (1.2 میٹر × 2.4 میٹر)",
+          "lengthFt": 8.0,
+          "widthFt": 4.0,
+          "lengthM": 2.44,
+          "widthM": 1.22,
+          "areaSqFt": 32.0,
+          "areaSqM": 2.98
+        },
+        {
+          "name": "3ft x 6ft (0.9m x 1.8m)",
+          "nameUrdu": "3 فٹ × 6 فٹ (0.9 میٹر × 1.8 میٹر)",
+          "lengthFt": 6.0,
+          "widthFt": 3.0,
+          "lengthM": 1.83,
+          "widthM": 0.91,
+          "areaSqFt": 18.0,
+          "areaSqM": 1.67
+        }
+      ],
+      "thicknessOptions": [
+        "12mm",
+        "16mm",
+        "20mm"
+      ],
+      "priceNote": "Price on request",
+      "priceNoteUrdu": "ریٹ پوچھیں",
+      "basePrice": null,
+      "imagePlaceholder": "images/products/eva-sheet.jpg"
+    },
+    {
+      "id": "parlor-mat",
+      "slug": "parlor-mat",
+      "title": "Milking Parlor Mat",
+      "titleUrdu": "مل کنگ پارلر میٹ",
+      "category": "parlor",
+      "surfaceType": "Wet-grip textured surface with fast-drainage channels",
+      "surfaceTypeUrdu": "گیلے فرش کے لیے تیز اخراج والی اینٹی سلپ سطح",
+      "usageArea": "Milking parlor pit, cow entrance and exit ramps, holding pens",
+      "usageAreaUrdu": "مل کنگ پارلر، دودھ دوہنے کا پلیٹ فارم، گائے کی آمد و رفت کا رستہ",
+      "sizes": [
+        {
+          "name": "3.5ft x 6ft (1.07m x 1.83m)",
+          "nameUrdu": "3.5 فٹ × 6 فٹ (1.07 میٹر × 1.83 میٹر)",
+          "lengthFt": 6.0,
+          "widthFt": 3.5,
+          "lengthM": 1.83,
+          "widthM": 1.07,
+          "areaSqFt": 21.0,
+          "areaSqM": 1.96
+        },
+        {
+          "name": "4ft x 6ft (1.2m x 1.8m)",
+          "nameUrdu": "4 فٹ × 6 فٹ (1.2 میٹر × 1.8 میٹر)",
+          "lengthFt": 6.0,
+          "widthFt": 4.0,
+          "lengthM": 1.83,
+          "widthM": 1.22,
+          "areaSqFt": 24.0,
+          "areaSqM": 2.23
+        }
+      ],
+      "thicknessOptions": [
+        "20mm",
+        "25mm"
+      ],
+      "priceNote": "Price on request",
+      "priceNoteUrdu": "ریٹ پوچھیں",
+      "basePrice": null,
+      "imagePlaceholder": "images/products/parlor-mat.jpg"
+    }
+  ],
+  "calculatorSettings": {
+    "defaultProduct": "cow-mat",
+    "typicalStallSizes": [
+      {
+        "id": "stall-std",
+        "name": "Standard Dairy Cow Stall (4ft x 6ft / 1 Mat per stall)",
+        "nameUrdu": "معیاری گائے کا اسٹال (4 فٹ × 6 فٹ / 1 میٹ فی جانور)",
+        "matsPerStall": 1.0,
+        "lengthFt": 6.0,
+        "widthFt": 4.0
+      },
+      {
+        "id": "stall-large",
+        "name": "Large / Crossbred Buffalo Stall (4ft x 7ft / 1.15 Mats per stall)",
+        "nameUrdu": "بڑی گائے یا بھینس کا اسٹال (4 فٹ × 7 فٹ)",
+        "matsPerStall": 1.15,
+        "lengthFt": 7.0,
+        "widthFt": 4.0
+      }
+    ],
+    "addons": [
+      {
+        "id": "alley",
+        "name": "Include Walking Alley (+20% pieces)",
+        "nameUrdu": "چلنے کی گلی شامل کریں (+20% میٹس)",
+        "multiplier": 0.20
+      },
+      {
+        "id": "feeding",
+        "name": "Include Feeding Area Front (+15% pieces)",
+        "nameUrdu": "کھرلی اور چارے کی جگہ شامل کریں (+15% میٹس)",
+        "multiplier": 0.15
+      }
+    ]
+  },
+  "whereMatsGo": [
+    {
+      "zone": "Stalls & Resting Cubicles",
+      "zoneUrdu": "اسٹالز اور آرام کی جگہیں",
+      "suitableProduct": "cow-mat",
+      "suitableProductTitle": "Dairy Cow Mat (18mm to 24mm)",
+      "suitableProductTitleUrdu": "ڈیری کاؤ میٹ (18 تا 24 ملی میٹر)",
+      "notes": "Directly placed under the cow. Provides insulation from cold damp concrete floor, cushions knees and hocks, and prevents udder injuries.",
+      "notesUrdu": "گائے کے بیٹھنے کی جگہ کے لیے۔ ٹھنڈے اور کچے فرش سے بچاتی ہے، کھروں اور گھٹنوں کے زخم روکتی ہے اور حیوانے کو محفوظ رکھتی ہے۔"
+    },
+    {
+      "zone": "Alleys & Walking Passages",
+      "zoneUrdu": "گلیارے اور چلنے کے راستے",
+      "suitableProduct": "cow-mat",
+      "suitableProductTitle": "Interlocking Cow Mats or Textured Sheets",
+      "suitableProductTitleUrdu": "انٹرلاکنگ کاؤ میٹس یا کھردری شیٹس",
+      "notes": "High-traffic passage between shed and milking room. Prevents dangerous slipping when cows move quickly during morning or evening milking.",
+      "notesUrdu": "شیڈ سے مل کنگ پارلر کے راستے کے لیے۔ جانوروں کو پھسلنے اور گرنے کی چوٹوں سے محفوظ رکھتی ہے۔"
+    },
+    {
+      "zone": "Milking Parlor & Standing Platform",
+      "zoneUrdu": "مل کنگ پارلر اور دودھ دوہنے کی جگہ",
+      "suitableProduct": "parlor-mat",
+      "suitableProductTitle": "Heavy Wet-Drainage Parlor Mat (20mm to 25mm)",
+      "suitableProductTitleUrdu": "مل کنگ پارلر واٹر پروف میٹ (20 تا 25 ملی میٹر)",
+      "notes": "Engineered for daily chemical and pressure washdowns. High grip ensures animal stability during attachment of milking clusters.",
+      "notesUrdu": "روزانہ دھلائی کے لیے خصوصی بناوٹ۔ دودھ دوہتے وقت گائے کے پاؤں مضبوطی سے جمے رہتے ہیں۔"
+    },
+    {
+      "zone": "Calf Sheds & Quarantine Pens",
+      "zoneUrdu": "بچھڑوں کے کیبن اور آئسولیشن شیڈ",
+      "suitableProduct": "eva-sheet",
+      "suitableProductTitle": "High-Density EVA Flooring Sheet (12mm to 16mm)",
+      "suitableProductTitleUrdu": "ہائی ڈینسٹی ای وی اے شیٹ (12 تا 16 ملی میٹر)",
+      "notes": "Warmer and softer than vulcanized rubber; excellent thermal barrier for vulnerable young calves against cold winter flooring.",
+      "notesUrdu": "ربڑ کے مقابلے میں زیادہ نرم اور گرم، سردیوں میں چھوٹے بچھڑوں کو سرد فرش کی نم سے بچاتی ہے۔"
+    }
+  ],
+  "orderSteps": [
+    {
+      "step": 1,
+      "title": "Send Inquiry or Size",
+      "titleUrdu": "پیمائش یا ضرورت بھیجیں",
+      "detail": "Use our calculator to work out your pieces or send your shed measurements directly on WhatsApp.",
+      "detailUrdu": "ہماری ویب سائٹ پر کیلکولیٹر سے تعداد معلوم کریں یا واٹس ایپ پر اپنے شیڈ کی پیمائش بھیجیں۔"
+    },
+    {
+      "step": 2,
+      "title": "Receive Wholesale Quote",
+      "titleUrdu": "ہول سیل ریٹ اور کوٹیشن حاصل کریں",
+      "detail": "The shop confirms stock availability, piece price, and transport freight options to your city.",
+      "detailUrdu": "دکان دار آپ کو میٹس کی دستیابی، فی پیس قیمت اور آپ کے شہر تک ٹرانسپورٹ خرچہ بتائے گا۔"
+    },
+    {
+      "step": 3,
+      "title": "Confirm & Dispatch",
+      "titleUrdu": "آرڈر کی تصدیق اور روانگی",
+      "detail": "Collect directly from the Lahore shop or have goods booked through cargo transport across Punjab.",
+      "detailUrdu": "لاہور کی دکان سے خود لے جائیں یا پنجاب بھر میں بلٹی کارگو کے ذریعے منگوائیں۔"
+    }
+  ],
+  "deliveryAndTerms": {
+    "coverage": "All Punjab cities (Lahore, Kasur, Okara, Sahiwal, Faisalabad, Gujranwala, Sialkot, Sargodha, Multan, Bahawalpur) and nationwide",
+    "coverageUrdu": "پنجاب کے تمام اضلاع (لاہور، قصور، اوکاڑہ، ساہیوال، فیصل آباد، گوجرانوالہ، سیالکوٹ، سرگودھا، ملتان، بہاولپور) اور ملک بھر میں",
+    "deliveryTiming": "Same-day Lahore godown pickup; 1 to 3 business days via goods cargo carrier",
+    "deliveryTimingUrdu": "لاہور گودام سے فوری دستیابی؛ بلٹی کے ذریعے 1 سے 3 کاروباری دن",
+    "minOrder": "No minimum for shop pickup; freight cargo starting from 5 to 10 pieces",
+    "minOrderUrdu": "دکان سے کسی بھی تعداد میں؛ بلٹی کارگو کے لیے کم از کم 5 تا 10 میٹس",
+    "paymentMethods": "Cash at counter, online bank transfer before cargo booking",
+    "paymentMethodsUrdu": "دکان پر نقد یا بلٹی بکنگ سے قبل بینک اکاؤنٹ میں ٹرانسفر"
+  },
+  "reviews": {
+    "overallRating": 4.9,
+    "reviewCount": 77,
+    "source": "Google Maps Verified Reviews",
+    "notice": "Only genuine customer ratings from Google Maps are shown.",
+    "noticeUrdu": "صرف گوگل میپس پر تصدیق شدہ 4.9 ریٹنگ (77 آراء) دکھائی گئی ہے۔"
+  },
+  "faqs": [
+    {
+      "q": "What thickness is recommended for dairy cows?",
+      "qUrdu": "ڈیری گائے کے لیے کتنے ملی میٹر موٹی میٹ لگانی چاہیے؟",
+      "a": "For adult cows and buffaloes, 20mm to 24mm heavy rubber is standard to provide adequate knee and hoof cushioning on concrete. For small calves, 12mm to 16mm EVA sheets are commonly used.",
+      "aUrdu": "بڑی گائے اور بھینسوں کے لیے 20 تا 24 ملی میٹر کی موٹی ربڑ میٹ معیاری سمجھی جاتی ہے تاکہ جانور کے گھٹنوں کو آرام ملے۔ چھوٹے بچھڑوں کے لیے 12 تا 16 ملی میٹر ای وی اے شیٹس استعمال ہوتی ہیں۔"
+    },
+    {
+      "q": "How do we clean and wash rubber cow mats?",
+      "qUrdu": "ربڑ کاؤ میٹس کو کیسے صاف اور دھویا جائے؟",
+      "a": "Water washdowns using pressure hoses or standard farm water jets. The bottom drainage channels let liquids drain away quickly without trapping dampness underneath.",
+      "aUrdu": "پانی کے پائپ یا پریشر واشر سے باآسانی دھلائی ہو جاتی ہے۔ نیچے کی نالیوں کی وجہ سے پانی اور پیشاب رکتا نہیں بلکہ فوراً نالی میں بہہ جاتا ہے۔"
+    },
+    {
+      "q": "Do these mats slip when wet?",
+      "qUrdu": "کیا گیلے ہونے پر یہ میٹس پھسلتی ہیں؟",
+      "a": "No. The top surface has a raised textured diamond or hammer-grip profile specifically designed to prevent animal slips and hoof injuries even during washdowns.",
+      "aUrdu": "نہیں۔ میٹ کی اوپری سطح پر خاص قسم کا کھردرا یا ابھرا ہوا اینٹی سلپ ڈیزائن ہوتا ہے جو گیلے ہونے پر بھی جانور کو گرنے اور پھسلنے نہیں دیتا۔"
+    },
+    {
+      "q": "How can buyers outside Lahore receive bulk orders?",
+      "qUrdu": "لاہور سے باہر موجود فارم مالکان سامان کیسے حاصل کریں؟",
+      "a": "We dispatch daily through goods transport companies (bilwaja/cargo) from Lahore to all Punjab transport terminals. You receive a cargo tracking receipt (bilty) upon booking.",
+      "aUrdu": "لاہور سے روزانہ پنجاب کے تمام شہروں کے لیے گڈز ٹرانسپورٹ کے ذریعے بلٹی بک کرائی جاتی ہے اور آپ کو کارگو کی رسید واٹس ایپ کی جاتی ہے۔"
+    },
+    {
+      "q": "Can mats be cut to fit our shed shape?",
+      "qUrdu": "کیا میٹس کو اپنے شیڈ کے سائز کے مطابق کاٹا جا سکتا ہے؟",
+      "a": "Yes. Rubber mats can be trimmed on-site using a standard heavy utility cutter or linoleum knife with soapy water as a lubricant.",
+      "aUrdu": "جی ہاں، معیاری کٹر یا چھری کے ساتھ صابن والا پانی لگا کر ربڑ میٹ کو شیڈ کے کھمبوں یا کونوں کے مطابق آسانی سے کاٹا جا سکتا ہے۔"
+    },
+    {
+      "q": "How does the bulk quotation process work?",
+      "qUrdu": "تھوک ریٹ معلوم کرنے کا کیا طریقہ ہے؟",
+      "a": "Select your dimensions in our calculator or choose your items, then tap Send WhatsApp Inquiry. Our shop representative replies with exact current rates and delivery options.",
+      "aUrdu": "ویب سائٹ کیلکولیٹر سے تعداد معلوم کر کے یا فہرست بنا کر واٹس ایپ بٹن دبائیں۔ دکان کا نمائندہ آپ کو فوری ہول سیل ریٹ فراہم کرے گا۔"
+    }
+  ]
+}
+
